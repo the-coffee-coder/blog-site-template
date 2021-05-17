@@ -3,7 +3,7 @@
 # followandrew
 # freecodecamp.org
 
-Converted HTML coded blog site template based on Bootstrap 4 to a custom Wordpress Theme.  Demonstrates that I could take a clients static site and keep it's style while giving them the ability to manage in a Content Management System(CMS), i.e. Wordpress.
+Converted HTML coded blog site template based on Bootstrap 4 to a custom, Responsive Wordpress Theme.  Demonstrates that I could take a clients static site and keep it's style while giving them the ability to manage in a Content Management System(CMS), i.e. Wordpress.
 
 This site was created as a practice exercise with instruction from freecodecamp.org's YoutTube tutorial presented by Andrew Wilson.
 
