@@ -20,11 +20,18 @@ http://www.brandonharper.me/websites/blog-site-template
 Converted the following elements into Wordpress:
 
 Created custom Theme for Wordpress by converting all features in original HTML files to be managed by Wordpress CMS
+
 Created custom Widget areas for sidebar and footer via hard coding PHP
+
 Enqueued scripts and style sheets to have WP dynamically load
+
 Utilized FontAwesome for navigation icons
+
 Custom coded header/footer files with PHP
+
 Created custom blog archive and article page with PHP utilizing the custom template parts feature within Wordpress
+
 Custom coded comments feature into blog article pages
+
 Utilized Duplicate Page plugin to copy posts
 
